@@ -1,0 +1,2 @@
+D:\Visual Studio Projects\PortableTesting\PortableTesting\PortableTesting.WinPhone\PortableTesting.WinPhone.csproj;neutral
+D:\Visual Studio Projects\PortableTesting\PortableTesting\PortableTesting\PortableTesting.csproj;neutral

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PortableTesting.MainPage">
+
+  <Grid>
+    <Grid.RowDefinitions>
+      <RowDefinition Height="2*"/>
+      <RowDefinition Height="*"/>
+      <RowDefinition Height="*"/>
+      <RowDefinition Height="*"/>
+      <RowDefinition Height="*"/>
+    </Grid.RowDefinitions>
+    <Grid.ColumnDefinitions>
+      <ColumnDefinition Width="*"/>
+      <ColumnDefinition Width="*"/>
+      <ColumnDefinition Width="*"/>
+    </Grid.ColumnDefinitions>
+  
+      <Label Text="Main Page" FontSize="20" HorizontalTextAlignment="Center" Grid.Row="1" Grid.Column="1" />
+
+      <Button x:Name="SecondaryPage" Text="Second Page" Clicked="GoToPage2" Grid.Row="2" Grid.Column="1"/>
+      <Button x:Name="CalendarPage" Text="Calendar Data" Clicked="CalenderCharts" Grid.Row="3" Grid.Column="2"/>
+      <Button x:Name="Settings" Text="Settings" Clicked="SettingsPageOpen" Grid.Row="3" Grid.Column="0"/>
+
+  </Grid>
+</ContentPage>

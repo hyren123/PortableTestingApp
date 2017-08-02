@@ -1,0 +1,23 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="d:\visual studio projects\portabletesting\portabletesting\portabletesting.winphone\obj\x86\debug\intermediatexaml\portabletesting.winphone.exe" HashGuid="34ce0e6b-ef52-8ffe-a3d0-8e26b447e70a" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
+    <ReferenceAssembly PathName="d:\visual studio projects\portabletesting\packages\pclstorage.1.0.2\lib\portable-win8+wpa81\pclstorage.abstractions.dll" HashGuid="736550c0-daf7-fc43-5e2e-a9023a3ecf57" />
+    <ReferenceAssembly PathName="d:\visual studio projects\portabletesting\packages\pclstorage.1.0.2\lib\portable-win8+wpa81\pclstorage.dll" HashGuid="b3c72855-4fce-2ada-bc0f-5135882cc5d5" />
+    <ReferenceAssembly PathName="d:\visual studio projects\portabletesting\packages\xam.plugins.messaging.4.0.0\lib\portable-net45+wp8+wpa81+win8+monoandroid10+monotouch10+xamarin.ios10+uap10\plugin.messaging.abstractions.dll" HashGuid="51fded91-586c-379f-6ae2-4c259110d583" />
+    <ReferenceAssembly PathName="d:\visual studio projects\portabletesting\packages\xam.plugins.messaging.4.0.0\lib\portable-net45+wp8+wpa81+win8+monoandroid10+monotouch10+xamarin.ios10+uap10\plugin.messaging.dll" HashGuid="906c5bb0-079f-9083-1238-f804296d1557" />
+    <ReferenceAssembly PathName="d:\visual studio projects\portabletesting\portabletesting\portabletesting\bin\debug\portabletesting.dll" HashGuid="007d65fc-1c55-7628-8c67-4e7063918305" />
+    <ReferenceAssembly PathName="d:\visual studio projects\portabletesting\packages\sqlite-net-pcl.1.3.3\lib\netstandard1.1\sqlite-net.dll" HashGuid="401df306-5aa3-b0a8-ccbb-6f790c02d798" />
+    <ReferenceAssembly PathName="d:\visual studio projects\portabletesting\packages\sqlitepclraw.bundle_green.1.1.5\lib\wpa81\sqlitepclraw.batteries_green.dll" HashGuid="39f21040-4875-6272-89df-7d99d9436971" />
+    <ReferenceAssembly PathName="d:\visual studio projects\portabletesting\packages\sqlitepclraw.bundle_green.1.1.5\lib\wpa81\sqlitepclraw.batteries_v2.dll" HashGuid="2ac16958-7d08-0826-efe2-e0251f98c9e2" />
+    <ReferenceAssembly PathName="d:\visual studio projects\portabletesting\packages\sqlitepclraw.core.1.1.5\lib\wpa81\sqlitepclraw.core.dll" HashGuid="1996488c-8252-ab4b-02e7-f4b7ab086265" />
+    <ReferenceAssembly PathName="d:\visual studio projects\portabletesting\packages\sqlitepclraw.provider.e_sqlite3.wpa81.1.1.5\lib\wpa81\sqlitepclraw.provider.e_sqlite3.dll" HashGuid="0fd4fa9b-8f54-8c25-6154-27e7292ff253" />
+    <ReferenceAssembly PathName="d:\visual studio projects\portabletesting\packages\syncfusion.xamarin.sfcalendar.15.1.0.41\lib\portable-win+net45+wp80+wpa81+monoandroid10+monotouch10+xamarin.ios10\syncfusion.sfcalendar.xforms.dll" HashGuid="ba39580b-6452-e414-6f09-55ee0551b18b" />
+    <ReferenceAssembly PathName="d:\visual studio projects\portabletesting\packages\system.runtime.interopservices.runtimeinformation.4.0.0\lib\wpa81\system.runtime.interopservices.runtimeinformation.dll" HashGuid="037c61cf-b1a0-82d6-0cea-3655359be2ea" />
+    <ReferenceAssembly PathName="d:\visual studio projects\portabletesting\packages\xamarin.forms.2.3.2.127\lib\wpa81\xamarin.forms.core.dll" HashGuid="725dee27-7376-6787-2b92-d2b102c486d4" />
+    <ReferenceAssembly PathName="d:\visual studio projects\portabletesting\packages\xamarin.forms.2.3.2.127\lib\wpa81\xamarin.forms.platform.dll" HashGuid="6b938cd4-44c0-2618-7eb6-4caa3f482076" />
+    <ReferenceAssembly PathName="d:\visual studio projects\portabletesting\packages\xamarin.forms.2.3.2.127\lib\wpa81\xamarin.forms.platform.winrt.dll" HashGuid="07994aa2-3382-4066-7150-6b749ac659d6" />
+    <ReferenceAssembly PathName="d:\visual studio projects\portabletesting\packages\xamarin.forms.2.3.2.127\lib\wpa81\xamarin.forms.platform.winrt.phone.dll" HashGuid="94274a37-ad6c-fd1e-7bbb-eccc6cb7804c" />
+    <ReferenceAssembly PathName="d:\visual studio projects\portabletesting\packages\xamarin.forms.2.3.2.127\lib\wpa81\xamarin.forms.xaml.dll" HashGuid="9f5b8117-9053-1f26-a531-a25956bccca6" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
